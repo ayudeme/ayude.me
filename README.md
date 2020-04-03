@@ -1,7 +1,5 @@
 # ayude.me
 
-Ayude.me
-
 ¿Que es esto?
 Es una plataforma diseñana para que las personas puedan pedir ayuda y ayudar a otros durante la pandemia del coronavirus.
 
