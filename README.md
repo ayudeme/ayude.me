@@ -1,9 +1,11 @@
 # ayude.me
 
 ¿Que es esto?
+
 Es una plataforma diseñana para que las personas puedan pedir ayuda y ayudar a otros durante la pandemia del coronavirus.
 
 ¿Como lo instalo?
+
 Se agregaran instrucciones conforme avance el proyecto
 
 Caracteristicas principales
